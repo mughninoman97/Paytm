@@ -1,23 +1,25 @@
 # Paytm Clone (Mobile Responsive)
 
-This is Paytm Clone project of Web Development. The project is designed in such a way that it works on large(Desktop & Laptop) as well as small screens(Mobile Devices). In this project I have learnt a lot of things such as HTML, tailwind CSS.
+This is _**Paytm Clone project**_ of Web Development. The project is designed in such a way that it works on large(Desktop & Laptop) as well as small screens(Mobile Devices). In this project I have learnt a lot of things in **HTML using tailwind CSS**.
+
+>[Check out the live website here](https://paytm-clone-by-noman.netlify.app/)
 
 FULL WEBPAGE:
-![Project2](/sc/full.png "proj2 image")
+![Project paytm](/sc/full.png "proj paytm image")
 
 NAVBAR:
-![Project2](/sc/nav.PNG "proj2 image")
+![Project paytm](/sc/nav.PNG "proj paytm image")
 
 BODY:
-![Project2](/sc/body1.PNG)
-![Project2](/sc/body2.PNG)
+![Project paytm](/sc/body1.PNG)
+![Project paytm](/sc/body2.PNG)
 
 FOOTER:
-![Project2](/sc/foot.PNG )
+![Project paytm](/sc/foot.PNG )
 
 ## Technologies Used
 
-![Mascot](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg "html logo")
+![html](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg "html logo")
 ![tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
 
 
